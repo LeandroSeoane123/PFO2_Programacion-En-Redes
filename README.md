@@ -163,7 +163,7 @@ curl -X DELETE http://127.0.0.1:5001/tareas/1 -u usuario123:1234
 ---
 ## Pruebas:  
 ### Menú principal:
-<img width="576" height="278" alt="image" src="https://github.com/user-attachments/assets/d4b20835-cc69-4cbf-a804-2a214aa35895" />
+<img width="576" height="278" alt="image" src="https://github.com/LeandroSeoane123/PFO2_Programacion-En-Redes/blob/main/image/1.jpeg" />
 
 ### Registro de usuario:  
 <img width="560" height="335" alt="image" src="https://github.com/user-attachments/assets/ad19cc04-8076-4c3d-b7d7-d65a65ad399e" />
